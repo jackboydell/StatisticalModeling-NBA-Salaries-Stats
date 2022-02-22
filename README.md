@@ -1,5 +1,5 @@
 # StatisticalModeling-NBA-Salaries-Stats
-This project utilizes statistical methods and data analysis to investigate the relationship between National Basketball Association (NBA) player performance statistics and their salaries for the 2017-2018 season.
+This project utilizes statistical methods and data analysis to investigate the relationship between National Basketball Association (NBA) player performance statistics and their salaries for the 2017-2018 season. In addition, this project investigates relationships between professional and college performance statistics. 
 
 Techniques/Approaches (R): Data wrangling, Correlation analysis, randomForest decision trees, Multiple linear regression
 
